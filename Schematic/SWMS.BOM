@@ -1,0 +1,23 @@
+  Revised: Tuesday, July 03, 2018
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           July 3,2018      14:21:41	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	2	C1,C2	C
+2	1	C3	0.1uF
+3	1	J1	12V/1A
+4	1	J2	LCD
+5	2	J3,J4	CON4
+6	1	R5	1K
+7	1	R6	2.2K
+8	1	U1	PIC18F46K22
+9	1	U2	Power Supply

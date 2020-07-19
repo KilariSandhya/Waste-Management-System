@@ -1,0 +1,62 @@
+Warning[2073] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 42 : null-terminated initializer string too long
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 127 : suspicious pointer conversion
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 127 : suspicious pointer conversion
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 129 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 129 : type qualifier mismatch in assignment
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 130 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 139 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 147 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 154 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 162 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 169 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 176 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 183 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 190 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 197 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 204 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 211 : call of function without prototype
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 221 : suspicious pointer conversion
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 222 : suspicious pointer conversion
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 223 : suspicious pointer conversion
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 224 : suspicious pointer conversion
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 228 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 228 : type qualifier mismatch in assignment
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 230 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 238 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 242 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 243 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 244 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 272 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 279 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 282 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 290 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 292 : call of function without prototype
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 369 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 369 : type qualifier mismatch in assignment
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 370 : call of function without prototype
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 376 : call of function without prototype
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 383 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 383 : type qualifier mismatch in assignment
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 384 : call of function without prototype
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 392 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 392 : type qualifier mismatch in assignment
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 393 : call of function without prototype
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 400 : suspicious pointer conversion
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 403 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 403 : type qualifier mismatch in assignment
+Warning[2058] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 404 : call of function without prototype
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 431 : type qualifier mismatch in assignment
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 448 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 448 : type qualifier mismatch in assignment
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 457 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 457 : type qualifier mismatch in assignment
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 459 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 459 : type qualifier mismatch in assignment
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 467 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 467 : type qualifier mismatch in assignment
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 469 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 469 : type qualifier mismatch in assignment
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 481 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 481 : type qualifier mismatch in assignment
+Warning[2054] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 483 : suspicious pointer conversion
+Warning[2066] F:\Industrial Training\Waste Management System\MPLAB Final Code\wifimodule.c 483 : type qualifier mismatch in assignment

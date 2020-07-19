@@ -1,0 +1,49 @@
+# MPLAB IDE generated this makefile for use with Microsoft `nmake'.
+# Project: Apsis Board Basic Sanity Test.mcp
+# Date: Mon Jul 03 20:53:34 2017
+
+AS = MPASMWIN.exe
+CC = mcc18.exe
+LD = mplink.exe
+AR = mplib.exe
+RM = del
+
+"..\Apsis Board Basic Sanity Test.cof" : "..\..\..\..\MCC18\ADC.o" "..\..\..\..\MCC18\clock_setting.o" "..\..\..\..\MCC18\delay.o" "..\..\..\..\MCC18\LCD.o" "..\..\..\..\MCC18\main.o" "..\..\..\..\MCC18\Math.o" "..\..\..\..\MCC18\ProjectMain.o" "..\..\..\..\MCC18\serial_codes.o" "..\..\..\..\MCC18\support.o" "..\..\..\..\MCC18\t2close.o" "..\..\..\..\MCC18\t2open.o"
+	$(LD) /p18F44K22 /l"C:\MCC18\lib" /k"C:\MCC18\bin\LKR" "..\..\..\..\MCC18\ADC.o" "..\..\..\..\MCC18\clock_setting.o" "..\..\..\..\MCC18\delay.o" "..\..\..\..\MCC18\LCD.o" "..\..\..\..\MCC18\main.o" "..\..\..\..\MCC18\Math.o" "..\..\..\..\MCC18\ProjectMain.o" "..\..\..\..\MCC18\serial_codes.o" "..\..\..\..\MCC18\support.o" "..\..\..\..\MCC18\t2close.o" "..\..\..\..\MCC18\t2open.o" /u_CRUNTIME /z__MPLAB_BUILD=1 /o"C:\Users\charan p\Desktop\Apsis Board Basic Sanity Test.cof" /M"C:\Users\charan p\Desktop\Apsis Board Basic Sanity Test.map" /W
+
+"..\..\..\..\MCC18\ADC.o" : "ADC.C" "ADC.H" "ADC.h" "ADC.C" "..\..\..\..\MCC18\h\p18f46k22.h" "P18F46K22generic.h" "PinAllocation.h" "p18f46k22Generic.h" "p18f46K22Generic.h"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "ADC.C" -fo="C:\MCC18\ADC.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"..\..\..\..\MCC18\clock_setting.o" : "clock_setting.c" "..\..\..\..\MCC18\h\p18f46k22.h" "P18F46K22generic.h" "clock_setting.h"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "clock_setting.c" -fo="C:\MCC18\clock_setting.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"..\..\..\..\MCC18\delay.o" : "delay.c" "clock_setting.h"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "delay.c" -fo="C:\MCC18\delay.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"..\..\..\..\MCC18\LCD.o" : "LCD.c" "serial_codes.h" "delay.h" "LCD.h" "LCD.c" "..\..\..\..\MCC18\h\p18f46k22.h" "PinAllocation.h"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "LCD.c" -fo="C:\MCC18\LCD.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"..\..\..\..\MCC18\main.o" : "main.c" "..\..\..\..\MCC18\h\stdio.h" "..\..\..\..\MCC18\h\string.h" "serial_codes.h" "ADC.H" "LCD.h" "delay.h" "timers.h" "main.c" "..\..\..\..\MCC18\h\p18f46k22.h" "..\..\..\..\MCC18\h\stdarg.h" "..\..\..\..\MCC18\h\stddef.h" "P18F46K22generic.h" "main.h" "clock_setting.h" "ProjectMain.h" "p18f46k22Generic.h" "PinAllocation.h"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "main.c" -fo="C:\MCC18\main.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"..\..\..\..\MCC18\Math.o" : "Math.c" "..\..\..\..\MCC18\h\p18f46K22.h"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "Math.c" -fo="C:\MCC18\Math.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"..\..\..\..\MCC18\ProjectMain.o" : "ProjectMain.c" "..\..\..\..\MCC18\h\stdio.h" "..\..\..\..\MCC18\h\string.h" "..\..\..\..\MCC18\h\stdlib.h" "..\..\..\..\MCC18\h\delays.h" "serial_codes.h" "ADC.H" "LCD.h" "delay.h" "timers.h" "ProjectMain.c" "..\..\..\..\MCC18\h\p18f46k22.h" "..\..\..\..\MCC18\h\stdarg.h" "..\..\..\..\MCC18\h\stddef.h" "..\..\..\..\MCC18\h\p18cxxx.h" "..\..\..\..\MCC18\h\p18f44k22.h" "ProjectMain.h" "p18f46k22Generic.h" "PinAllocation.h"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "ProjectMain.c" -fo="C:\MCC18\ProjectMain.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"..\..\..\..\MCC18\serial_codes.o" : "serial_codes.c" "serial_codes.h" "timers.h" "serial_codes.c" "..\..\..\..\MCC18\h\p18f46k22.h" "P18F46K22generic.h"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "serial_codes.c" -fo="C:\MCC18\serial_codes.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"..\..\..\..\MCC18\support.o" : "support.c" "support.h" "support.c"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "support.c" -fo="C:\MCC18\support.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"..\..\..\..\MCC18\t2close.o" : "t2close.c" "timers.h" "t2close.c" "..\..\..\..\MCC18\h\p18cxxx.h" "..\..\..\..\MCC18\h\p18f44k22.h"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "t2close.c" -fo="C:\MCC18\t2close.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"..\..\..\..\MCC18\t2open.o" : "t2open.c" "timers.h" "t2open.c" "..\..\..\..\MCC18\h\p18cxxx.h" "..\..\..\..\MCC18\h\p18f44k22.h"
+	$(CC) -p=18F44K22 /i"C:\MCC18\bin" "t2open.c" -fo="C:\MCC18\t2open.o" -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+
+"clean" : 
+	$(RM) "..\..\..\..\MCC18\ADC.o" "..\..\..\..\MCC18\clock_setting.o" "..\..\..\..\MCC18\delay.o" "..\..\..\..\MCC18\LCD.o" "..\..\..\..\MCC18\main.o" "..\..\..\..\MCC18\Math.o" "..\..\..\..\MCC18\ProjectMain.o" "..\..\..\..\MCC18\serial_codes.o" "..\..\..\..\MCC18\support.o" "..\..\..\..\MCC18\t2close.o" "..\..\..\..\MCC18\t2open.o" "..\Apsis Board Basic Sanity Test.cof" "..\Apsis Board Basic Sanity Test.hex"
+
